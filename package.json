@@ -1,0 +1,14 @@
+{
+  "name": "discord-moderation-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord de modération avec commandes slash",
+  "main": "DiscordBot.js",
+  "scripts": {
+    "start": "node DiscordBot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2"
+  }
+}
